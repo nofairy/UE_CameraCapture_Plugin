@@ -1,0 +1,77 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"..\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG:FULL
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/fastfail
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.29.30133\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN:6
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\87972\Documents\Unreal Projects\ProtalProject\Plugins\CameraCapture\CameraCapture\Intermediate\Build\Win64\UnrealEditor\Debug\CameraCapture\Module.CameraCapture.cpp.obj"
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\Default.rc2.res"
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\CoreUObject\UnrealEditor-CoreUObject-Win64-Debug.lib"
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\Engine\UnrealEditor-Engine-Win64-Debug.lib"
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\Slate\UnrealEditor-Slate-Win64-Debug.lib"
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\SlateCore\UnrealEditor-SlateCore-Win64-Debug.lib"
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\InputCore\UnrealEditor-InputCore-Win64-Debug.lib"
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\InteractiveToolsFramework\UnrealEditor-InteractiveToolsFramework-Win64-Debug.lib"
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\UMG\UnrealEditor-UMG-Win64-Debug.lib"
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\CinematicCamera\UnrealEditor-CinematicCamera-Win64-Debug.lib"
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\RenderCore\UnrealEditor-RenderCore-Win64-Debug.lib"
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\RHI\UnrealEditor-RHI-Win64-Debug.lib"
+"..\Intermediate\Build\Win64\UnrealEditor\Debug\Core\UnrealEditor-Core-Win64-Debug.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+/OUT:"C:\Users\87972\Documents\Unreal Projects\ProtalProject\Plugins\CameraCapture\CameraCapture\Binaries\Win64\UnrealEditor-CameraCapture-Win64-Debug.dll"
+/IMPLIB:"C:\Users\87972\Documents\Unreal Projects\ProtalProject\Plugins\CameraCapture\CameraCapture\Intermediate\Build\Win64\UnrealEditor\Debug\CameraCapture\UnrealEditor-CameraCapture-Win64-Debug.suppressed.lib"
+/PDB:"C:\Users\87972\Documents\Unreal Projects\ProtalProject\Plugins\CameraCapture\CameraCapture\Binaries\Win64\UnrealEditor-CameraCapture-Win64-Debug.pdb"
+/ignore:4078

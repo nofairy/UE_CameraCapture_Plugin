@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CameraCapture",
+	"Description": "Tools for capturing camera view to render target",
+	"Category": "Other",
+	"CreatedBy": "sayonara",
+	"CreatedByURL": "",
+	"DocsURL": "https://uemarket3-1320661512.cos.ap-hongkong.myqcloud.com/CameraCapture.doc",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e1ee2f34290a4d1198505e93040f17aa",
+	"SupportURL": "https://uemarket3-1320661512.cos.ap-hongkong.myqcloud.com/CameraCapture.doc",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CameraCapture",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}

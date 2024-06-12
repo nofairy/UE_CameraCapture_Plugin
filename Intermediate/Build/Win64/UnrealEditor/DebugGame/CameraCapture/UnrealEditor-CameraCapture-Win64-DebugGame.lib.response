@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CameraCapture-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\87972\Documents\Unreal Projects\ProtalProject\Intermediate\Build\Win64\ProtalProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\87972\Documents\Unreal Projects\ProtalProject\Plugins\CameraCapture\Intermediate\Build\Win64\UnrealEditor\DebugGame\CameraCapture\Module.CameraCapture.cpp.obj"
+"C:\Users\87972\Documents\Unreal Projects\ProtalProject\Plugins\CameraCapture\Intermediate\Build\Win64\UnrealEditor\DebugGame\CameraCapture\Default.rc2.res"
+/OUT:"C:\Users\87972\Documents\Unreal Projects\ProtalProject\Plugins\CameraCapture\Intermediate\Build\Win64\UnrealEditor\DebugGame\CameraCapture\UnrealEditor-CameraCapture-Win64-DebugGame.lib"

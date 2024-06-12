@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CameraCapture.cpp.obj": [
+			"CameraCapture.init.gen.cpp.obj",
+			"CameraCaptureComponent.gen.cpp.obj",
+			"CameraCapture.cpp.obj",
+			"CameraCaptureComponent.cpp.obj"
+		]
+	}
+}

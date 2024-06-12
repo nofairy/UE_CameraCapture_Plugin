@@ -1,0 +1,39 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\87972\\documents\\unreal projects\\protalproject\\plugins\\cameracapture\\intermediate\\build\\win64\\unrealgame\\debuggame\\cameracapture\\module.cameracapture.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\87972\\documents\\unreal projects\\protalproject\\intermediate\\build\\win64\\protalproject\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\87972\\documents\\unreal projects\\protalproject\\plugins\\cameracapture\\intermediate\\build\\win64\\unrealgame\\debuggame\\cameracapture\\definitions.cameracapture.h",
+            "c:\\users\\87972\\documents\\unreal projects\\protalproject\\plugins\\cameracapture\\intermediate\\build\\win64\\unrealgame\\inc\\cameracapture\\uht\\cameracapture.init.gen.cpp",
+            "c:\\users\\87972\\documents\\unreal projects\\protalproject\\plugins\\cameracapture\\intermediate\\build\\win64\\unrealgame\\inc\\cameracapture\\uht\\cameracapturecomponent.gen.cpp",
+            "c:\\users\\87972\\documents\\unreal projects\\protalproject\\plugins\\cameracapture\\source\\cameracapture\\public\\cameracapturecomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertarget2d.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertarget.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\texturerendertarget.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\texturerendertarget2d.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\slate\\public\\widgets\\svirtualwindow.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\input\\hittestgrid.h",
+            "c:\\users\\87972\\documents\\unreal projects\\protalproject\\plugins\\cameracapture\\intermediate\\build\\win64\\unrealgame\\inc\\cameracapture\\uht\\cameracapturecomponent.generated.h",
+            "c:\\users\\87972\\documents\\unreal projects\\protalproject\\plugins\\cameracapture\\source\\cameracapture\\private\\cameracapture.cpp",
+            "c:\\users\\87972\\documents\\unreal projects\\protalproject\\plugins\\cameracapture\\source\\cameracapture\\public\\cameracapture.h",
+            "c:\\users\\87972\\documents\\unreal projects\\protalproject\\plugins\\cameracapture\\source\\cameracapture\\private\\cameracapturecomponent.cpp",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\sceneviewextension.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\sceneviewextensioncontext.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\sceneviewextensioncontext.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\scenetexturesconfig.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\rendercore\\public\\gbufferinfo.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\enginemodule.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\legacyscreenpercentagedriver.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\cinematiccamera\\public\\cinecameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\cinematiccamera\\public\\cinecamerasettings.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\cinematiccamera\\uht\\cinecamerasettings.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\cinematiccamera\\uht\\cinecameracomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

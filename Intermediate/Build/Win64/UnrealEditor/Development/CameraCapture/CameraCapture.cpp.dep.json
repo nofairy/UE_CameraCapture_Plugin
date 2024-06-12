@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\87972\\documents\\unreal projects\\protalproject\\plugins\\cameracapture\\source\\cameracapture\\private\\cameracapture.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\87972\\documents\\unreal projects\\protalproject\\intermediate\\build\\win64\\protalprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\87972\\documents\\unreal projects\\protalproject\\plugins\\cameracapture\\intermediate\\build\\win64\\unrealeditor\\development\\cameracapture\\definitions.cameracapture.h",
+            "c:\\users\\87972\\documents\\unreal projects\\protalproject\\plugins\\cameracapture\\source\\cameracapture\\public\\cameracapture.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
